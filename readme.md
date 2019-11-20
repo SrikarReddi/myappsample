@@ -1,0 +1,1 @@
+Just a sample dir for starteing Git
